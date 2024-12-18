@@ -89,11 +89,11 @@ Powered by an **ATmega328P** microcontroller and an **ESP32** module for Wi-Fi c
 ## Visuals
 
 ### Circuit Diagram
-![Circuit Diagram](Schematic_Smart_Meter_2024-12-18.png)
+![Circuit Diagram](images/Schematic_Smart_Meter_2024-12-18.png)
 
 ### Hardware Prototype
-![Final Hardware - Circuit Completed](photo_6275874739574653688_y.jpg)
-![Final Hardware - Final Product](photo_6275874739574653689_y.jpg)
+![Final Hardware - Circuit Completed](images/photo_6275874739574653688_y.jpg)
+![Final Hardware - Final Product](images/photo_6275874739574653689_y.jpg)
 
 ---
 
