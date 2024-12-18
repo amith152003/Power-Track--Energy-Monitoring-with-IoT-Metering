@@ -163,8 +163,14 @@ The ESP32 facilitates communication with Firebase and Google Sheets. Key feature
 ---
 
 ## License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the MIT License.
+---
+
+## Contact
+For any queries or contributions:
+- **Amith Mathew Titus**: amithmathewtitus@outlook.com
+- **Anugraha M.**: anugrahamahesh28@gmail.com
 
 ---
 
